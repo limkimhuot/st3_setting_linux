@@ -1,3 +1,52 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Case Conversion",
+		"ColorPicker",
+		"Composer",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GotoDocumentation",
+		"HTML-CSS-JS Prettify",
+		"INI",
+		"jQuery Snippets pack",
+		"JSHint Gutter",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"Pretty JSON",
+		"Select Quoted",
+		"SFTP",
+		"SideBarEnhancements",
+		"SimplePHPUnit",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
+		"Sublimerge 3",
+		"SublimeServer",
+		"Terminal",
+		"TrailingSpaces"
+	]
 }
