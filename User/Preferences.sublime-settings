@@ -3,7 +3,9 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"LiveReload",
 		"Vintage"
 	],
-	"theme": "Material-Theme-Darker.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
