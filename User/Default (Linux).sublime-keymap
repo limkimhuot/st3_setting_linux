@@ -1,0 +1,22 @@
+[
+    { "keys": ["ctrl+k", "ctrl+f"], "command": "phpcs_fix_this_file", "args": {"tool": "CodeBeautifier"}},
+    { "keys": ["ctrl+super+t"], "command": "phpcs_clear_sniffer_marks" },
+    { "keys": ["alt+pageup"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["alt+pagedown"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+    {
+    "keys": ["ctrl+,"], "command": "edit_settings", "args":
+    {
+      "base_file": "${packages}/Default/Preferences.sublime-settings",
+      "default": "// Settings in here override those in \"Default/Preferences.sublime-settings\",\n// and are overridden in turn by syntax-specific settings.\n{\n\t$0\n}\n"
+    }
+  },
+  {
+    "keys": ["ctrl+shift+,"], "command": "edit_settings", "args":
+    {
+      "base_file": "${packages}/Default/Default (Linux).sublime-keymap",
+      "default": ""
+    }
+  },
+  { "keys": ["alt+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["alt+down"], "command": "select_lines", "args": {"forward": true} }
+]
