@@ -1,6 +1,6 @@
 {
-    "phpcbf_executable_path": "/home/kimhuot/.composer/vendor/bin/phpcbf",
-    "phpcs_executable_path":"/home/kimhuot/.composer/vendor/bin/phpcs",
-    "phpmd_executable_path":"/home/kimhuot/.composer/vendor/bin/phpmd",
-    "php_cs_fixer_executable_path":"/home/kimhuot/.composer/vendor/bin/php-cs-fixer"
+    "phpcbf_executable_path": "~/.composer/vendor/bin/phpcbf",
+    "phpcs_executable_path":"~/.composer/vendor/bin/phpcs",
+    "phpmd_executable_path":"~/.composer/vendor/bin/phpmd",
+    "php_cs_fixer_executable_path":"~/.composer/vendor/bin/php-cs-fixer"
 }
