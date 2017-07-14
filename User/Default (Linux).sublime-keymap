@@ -19,5 +19,7 @@
   },
   { "keys": ["alt+up"], "command": "select_lines", "args": {"forward": false} },
   { "keys": ["alt+down"], "command": "select_lines", "args": {"forward": true} },
-  { "keys": ["super+e"], "command": "open_dir", "args": {"dir": "$packages"} }
+  { "keys": ["super+e"], "command": "open_dir", "args": {"dir": "$packages"} },
+  { "keys": ["alt+d"], "command": "goto_definition_scope" },
+  { "keys": ["alt+m"], "command": "docphp_show_definition" }
 ]
